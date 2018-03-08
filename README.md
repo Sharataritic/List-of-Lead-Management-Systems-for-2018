@@ -1,0 +1,12 @@
+# List-of-Lead-Management-Systems-for-2018
+Lead management system helps businesses to track and optimize the entire sales process to create qualified opportunities, and ultimately, satisfied customers also help grow with ROI.
+* [Aritic PinPoint](https://aritic.com) - It is a full stack Marketing Automation tool that aids you in closing more deals and grow revenue with Lead Scoring, Predictive Leads, Sales Point Trigger and more.  
+* [HubSpot](http://hubspot.com/) - It is a Marketing Automation provider that helps you grow your traffic and convert more visitors into customers by connecting with your customers on their terms and help them succeed. 
+* [Marketo](https://www.marketo.com/) - It is a Marketing Automation solution that helps you specialize in search marketing, landing pages, web personalization, forms, social media, and behavioral tracking.
+* [Infusionsoft](https://www.infusionsoft.com/) - It is marketing software that provides you advanced tracking software and collects detailed customer data to allow you to follow up with a personalized touch.
+* [Pardot](http://www.pardot.com/) - It B2B Marketing Automation software for Marketers that build intelligent, data-driven programs that helps to generate new leads and speed up your sales cycle.
+* [ActiveCampaign](http://www.activecampaign.com/) - It is a marketing automation tool that offers marketing automation to strike a right balance of automation and human touch to help you go beyond the basics of marketing automation.
+* [LeadSquared](http://www.leadsquared.com/) - It is a Effective Marketing & Sales Solutions for Enterprises and SMEs that helps you push your leads faster down the sales funnel with drip marketing, email marketing and conversion optimized landing pages.
+* [Oracle Eloqua](https://www.marketo.com/) - It is a marketing automation tool that equips marketers with best-in-class lead and campaign management tools that help marketers engage the right audience at the right time. 
+* [GetResponse](https://www.getresponse.com/) - It is Marekting Automation software that provides solutions, designed particularly to meet your business marketing needs and KPIs.
+* [Intercom](https://www.intercom.com/) - It is a Marketing Automation software that provides all the features you need to send targeted chats to visitors based on their activity and also lets you message users inside your web and mobile apps.
